@@ -1,4 +1,4 @@
-/*
+﻿/*
  * Copyright (C)  Justson(https://github.com/Justson/AgentWeb)
  *
  * Licensed under the Apache License, Version 2.0 (the "License");
@@ -18,8 +18,8 @@ package com.just.agentweb;
 
 import android.content.Context;
 import android.content.pm.ProviderInfo;
-import android.support.annotation.NonNull;
-import android.support.v4.content.FileProvider;
+import androidx.annotation.NonNull;
+import androidx.core.content.FileProvider;
 
 /**
  * @since 2.0.0
